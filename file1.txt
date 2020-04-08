@@ -2,3 +2,5 @@ This is the file I'm creating for Atlassian Git Tutorial
 This file is being changed after it was added to the staging area
 
 This is a commit
+
+This is another commit
