@@ -4,7 +4,7 @@ This file is being changed after it was added to the staging area
 This is a commit
 
 This is another commit
-This is in master
+This is in master. Another commit in master
 
 1
 2
