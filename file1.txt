@@ -4,4 +4,4 @@ This file is being changed after it was added to the staging area
 This is a commit
 
 This is another commit
-Hello in master
+
