@@ -1,4 +1,9 @@
 This is file 2 for week 1 of Atlassian Git 
 
 Prepring for merge conflict
+<<<<<<< HEAD
 master
+=======
+featureX
+
+>>>>>>> featureX
