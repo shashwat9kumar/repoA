@@ -6,6 +6,11 @@
 
 using namespace std;
 
+
+
+
+
+
 class Person
 {
 public:
@@ -29,6 +34,11 @@ void SetOfPerson()
         cout<<e.age << "  " << e.name<<endl;
     }
 }
+
+
+
+
+
 
 int main()
 {
