@@ -17,18 +17,24 @@ int main()
     cin >> edge >> nodes;
 
     tree.resize(nodes + 1);
-    return 0;
+
 
     for(int i = 0;i <edge;i++){
         cin>>n1>>n2;
         tree[n1].push_back(n2);
     }
-    //iterator
+    vector<vector<int>>::iterator x;
+    vector<int>::iterator y;
+    for(x = tree.begin(); x!=tree.end();x++)
+    {
+
+    }
     for(auto &e1 : tree){
-            std::cout<< e1<<"\t\t";
+            //cout<< **e1 ;
         for(const auto e2 : e1){
             cout<< e2<<"\t";
         }
         cout<<endl;
     }
+    return 0;
 }
